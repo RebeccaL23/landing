@@ -1,0 +1,12 @@
+.hero{
+  background-image: url("https://arthur-littm.github.io/startup-landing/images/background.png");
+  padding: 200px 0px;
+  color: white;
+}
+
+.hero a{
+  background-color: #1add87;
+  padding: 20px 40px;
+  border-radius: 30px;
+  color: white;
+}

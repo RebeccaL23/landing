@@ -1,0 +1,14 @@
+footer{
+  background-color: #2b2b2b;
+  text-align: center;
+  padding: 80px;
+}
+
+footer p{
+  color: #6B6C6C;
+}
+
+footer i{
+  color: #1add87;
+  font-size: 40px;
+}

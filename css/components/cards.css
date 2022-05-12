@@ -1,0 +1,24 @@
+.card, .card img{
+  width: 160px;
+}
+
+.card img{
+  height: 90px;
+}
+.card{
+  border: 1px #eee solid;
+  padding: 15px 40px;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  text-align: center;
+}
+
+.cards{
+  display: flex;
+  justify-content: space-around;
+}
+
+.content{
+  text-align: center;
+  margin: 50px 0;
+}
